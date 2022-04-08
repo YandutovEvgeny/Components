@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clocks", "Components\Clocks.csproj", "{7BA0674E-1223-4F1E-8ECA-53D5E4BD71C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameClock", "FrameClock\FrameClock.csproj", "{5AEF23A3-8BB7-4B80-8B43-509B34031ED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{0962D634-C679-4D52-83E7-3A77244B67B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathToWork", "PathToWork\PathToWork.csproj", "{D1C13FE5-0BA1-406A-B6FF-CF09EC3CB1E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "one", "one\one.csproj", "{D4E04F62-5ADF-4247-B859-C41A80128B8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegateEx", "delegateEx\delegateEx.csproj", "{789A3CC9-9A1B-4956-BD82-3A3217546CF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicDownloader", "MusicDownloader\MusicDownloader.csproj", "{96053CDE-B0A3-4D57-9CA4-B7969D72463B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BA0674E-1223-4F1E-8ECA-53D5E4BD71C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA0674E-1223-4F1E-8ECA-53D5E4BD71C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA0674E-1223-4F1E-8ECA-53D5E4BD71C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA0674E-1223-4F1E-8ECA-53D5E4BD71C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AEF23A3-8BB7-4B80-8B43-509B34031ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AEF23A3-8BB7-4B80-8B43-509B34031ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AEF23A3-8BB7-4B80-8B43-509B34031ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AEF23A3-8BB7-4B80-8B43-509B34031ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0962D634-C679-4D52-83E7-3A77244B67B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0962D634-C679-4D52-83E7-3A77244B67B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0962D634-C679-4D52-83E7-3A77244B67B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0962D634-C679-4D52-83E7-3A77244B67B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1C13FE5-0BA1-406A-B6FF-CF09EC3CB1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C13FE5-0BA1-406A-B6FF-CF09EC3CB1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C13FE5-0BA1-406A-B6FF-CF09EC3CB1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C13FE5-0BA1-406A-B6FF-CF09EC3CB1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E04F62-5ADF-4247-B859-C41A80128B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E04F62-5ADF-4247-B859-C41A80128B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E04F62-5ADF-4247-B859-C41A80128B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E04F62-5ADF-4247-B859-C41A80128B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789A3CC9-9A1B-4956-BD82-3A3217546CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789A3CC9-9A1B-4956-BD82-3A3217546CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789A3CC9-9A1B-4956-BD82-3A3217546CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789A3CC9-9A1B-4956-BD82-3A3217546CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96053CDE-B0A3-4D57-9CA4-B7969D72463B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96053CDE-B0A3-4D57-9CA4-B7969D72463B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96053CDE-B0A3-4D57-9CA4-B7969D72463B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96053CDE-B0A3-4D57-9CA4-B7969D72463B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CED5EB8-1D9D-446C-81C1-4087C5ED6847}
+	EndGlobalSection
+EndGlobal
